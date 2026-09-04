@@ -2,6 +2,11 @@
 
 Creative portfolio website — **Demo / Concept Project**.
 
-Pages: Home, About, Portfolio, Services, Contact.
+## Pages
+Home, About, Portfolio, Services, Contact.
 
-A responsive fictional creative practice website built for portfolio presentation.
+## Highlights
+Editorial portfolio gallery, complete creative service pages, responsive navigation and demo inquiry form.
+
+## Live demo
+https://luma-portfolio-saleh.albrghthy754.chatgpt.site
